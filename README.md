@@ -1,5 +1,5 @@
-## Hello World!!!
--- I am a Computer Science and Finance student @ Northeastern!
+## Hello World!!! 😊
+I am a Computer Science and Finance student @ Northeastern!
 
 <!--
 **jliang120/jliang120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
