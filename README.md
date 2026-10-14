@@ -1,5 +1,7 @@
-## Hello World!!! 😊
-I am a Computer Science and Finance student @ Northeastern!
+## hi my name is joyce!
+i am a comp sci & finance major @ northeastern university.
+
+i love working on projects in the intersection of both tech and finance. 
 
 <!--
 **jliang120/jliang120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
